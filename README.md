@@ -4,8 +4,8 @@
 
 ## Скриншоты работы программы
 
-![alt text](1.png)
+![alt text](<Главный экран (1).png>)
 
-![alt text](2.png)
+![alt text](<Главный экран (2).png>)
 
-![alt text](3.png)
+![alt text](Игра.png)
