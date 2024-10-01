@@ -12,7 +12,7 @@ class NotePage extends StatelessWidget {
       appBar: AppBar(
         title: Text(note.title), 
       ),
-      body: SingleChildScrollView(  // Оборачиваем в SingleChildScrollView
+      body: SingleChildScrollView(  
         padding: const EdgeInsets.all(16.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
